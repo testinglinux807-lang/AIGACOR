@@ -1,9 +1,3 @@
-"""
-Car Price Prediction — Web App (Step 4 deployment)
-Run locally:   streamlit run app.py
-Deploy free:   push this repo to GitHub, then deploy on https://share.streamlit.io
-Requires:      car_price_model.joblib  +  model_meta.json  in the same folder.
-"""
 import json
 import pandas as pd
 import streamlit as st
